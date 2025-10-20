@@ -44,8 +44,8 @@ For the purpose of this demo, start by modifying the file `demo.py`. Replace `He
 2. Run: `git add .`
 3. Run: `got commit -m "short description of your work"`. _Heads Up!_ Make sure to not leave the message section blank. Leaving it blank can cause vim to launch.
 4. Before we push our staged commits, it is pertinent to understand the difference between _first push command_ vs _usual push command_<br>
-First time: run `git push -u origin main` (this sets the upstream)
-Otherwise: run `git push`
+ * First time: run `git push -u origin main` (this sets the upstream)
+ * Otherwise: run `git push`
 
 
 ## pull requests
