@@ -48,6 +48,7 @@ For the purpose of this demo, start by modifying the file `demo.py`. Replace `He
  * Otherwise: run `git push`
 
 
-## pull requests
-
+## pull & pull requests
+Pulling is the act of getting the latest changes from GitHub. The command to follow: `git pull` <br>
+Pull Requests (aka PRs) are made when you work on a common project, and you wish to merge your changes (worked on a different branch) to the main branch <br>
 ## issues
