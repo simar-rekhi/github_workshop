@@ -23,6 +23,19 @@ forking is the act of creating a personal copy of someone else's repository on Y
 4. Now this is your independent copy to experiment with!
 5. If you wish to work on it locally, follow the procedure listed below under `clone` to clone YOUR fork
 
+## clone
+cloning is the act of downloading the latest version of repository from your GitHub page to your PC. This allows you to work on the project locally via a code editor. <br>
+You will be cloning the recently forked repository through some Terminal commands!
+1. Navigate to the repo you wish to clone
+2. Click the green `Code` button
+3. Copy the `HTTPS` URL. This looks somewhat like https://github.com/username/repo-name.git
+4. Navigate to the location where you want to clone this repository
+5. Once found, right click, and open "Terminal" from this location
+6. Run the following command: `git clone <url you just copied>` eg: `git clone https://github.com/username/repo-name.git`
+7. Type: `cd <repo-name>` This will bring you in the project folder
+8. Open your code editor:<br>
+  * Mac users: `open .`
+  * Windows users: `code .`
 
 ## add. commit. push.
 
@@ -30,5 +43,3 @@ forking is the act of creating a personal copy of someone else's repository on Y
 ## pull requests
 
 ## issues
-
-## clone
