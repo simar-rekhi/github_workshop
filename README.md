@@ -38,6 +38,14 @@ You will be cloning the recently forked repository through some Terminal command
   * Windows users: `code .`
 
 ## add. commit. push.
+This trio of commands will rule your time working on projects with Git/GitHub. Whenever you wish to add a new file to your source code or edit an existing one, you will make use **ACP: Add. Commit. Push.**<br>
+For the purpose of this demo, start by modifying the file `demo.py`. Replace `Hello, World` to `Hello, GitHub`, and save it as you would usually do.
+1. Open Terminal, this time via your code editor
+2. Run: `git add .`
+3. Run: `got commit -m "short description of your work"`. _Heads Up!_ Make sure to not leave the message section blank. Leaving it blank can cause vim to launch.
+4. Before we push our staged commits, it is pertinent to understand the difference between _first push command_ vs _usual push command_<br>
+First time: run `git push -u origin main` (this sets the upstream)
+Otherwise: run `git push`
 
 
 ## pull requests
