@@ -52,6 +52,15 @@ For the purpose of this demo, start by modifying the file `demo.py`. Replace `He
 Pulling is the act of getting the latest changes from GitHub. The command to follow: `git pull` <br>
 Pull Requests (aka PRs) are made when you work on a common project, and you wish to merge your changes (worked on a different branch) to the main branch <br>
 
+## creating your first repo!
+1. Click "Create New Repository"
+2. Name it: `swe-match`. _Heads Up!_ Make sure your repo does not share the same name as your username
+3. If you want, change the `repo visibility` to private (by default, this is public)
+4. Select   `Add README`
+5. Hit `Create repository`
+
+You just created your very first repo over GitHub i.e., remote. Now, how do we make it available locally?
+
 ## recources 
 * GitHub Documentation: https://docs.github.com/en
 * GitHub command cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
