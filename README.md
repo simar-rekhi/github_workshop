@@ -1,2 +1,5 @@
-# github_workshop
-conducted a github 101 in assoc with the utd chapter of the society of women engineers
+# GitHub x The Society of Women Engineers
+
+## Prerequisites!
+* [GitHub]([url](https://github.com/)) account signed up
+* [GitHub Desktop]([url](https://github.com/apps/desktop)) installed and set up 
