@@ -4,7 +4,7 @@ For this tutorial to be most effective, have the slide deck opened alongwith. I'
 
 ## Prerequisites!
 * GitHub account signed up: https://github.com/
-* GitHub Desktop installed and set up: https://github.com/apps/desktop
+* Git installed and set up: https://git-scm.com/
 * A code editor installed on your PC (preferably, VS Code)
 
 You just created your very first repo over GitHub i.e., remote. Now, how do we make it available locally?
